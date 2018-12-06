@@ -16,6 +16,7 @@ int main(int argc, char *argv[])
         return -1;
     }
     // qDebug()<<"test git"<<endl;
+    // qDebug()<<"test git"<<endl;
    // FoodManger *w = new FoodManger;
    // w->show();
     FoodManger w;
