@@ -13,14 +13,16 @@ $$PWD/mangeroperate.cpp \
     $$PWD/usermangement.cpp \
     $$PWD/userinfobox.cpp \
     $$PWD/settingmenu.cpp \
-    $$PWD/settingtable.cpp
+    $$PWD/settingtable.cpp\
+
 
 HEADERS  +=\
 $$PWD/mangeroperate.h \
     $$PWD/usermangement.h \
     $$PWD/userinfobox.h \
     $$PWD/settingmenu.h \
-    $$PWD/settingtable.h
+    $$PWD/settingtable.h\
+
 
 
 FORMS    +=\
